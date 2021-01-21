@@ -9,6 +9,7 @@ class Point {
 	int x;
 	int y;
 }
+// ÆÑÅ°Áö ¸â¹ö
 
 public class Ch03Ex02Refer {
 	static void swap(Point p) {
